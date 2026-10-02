@@ -1,0 +1,86 @@
+ticket_id,created_at,channel,customer_message,agent_notes,original_category,original_team,ai_predicted_category,ai_predicted_team,confidence,short_reason,human_validated_category,human_validated_team,reviewer_notes,reviewed_at
+TK-251138,2026-03-13 09:09,chat,"Product: the strata 3
+Order: VR903271
+Purchased: 24/02
+Issue: refund not received yet
+Tried: emailed twice
+Expected: replacement","cx: refund pending | chk reverse pickup qc status -> refund approved, rs 6999, 5-7 working days",Returns & Refunds,Returns Desk,Returns & Refunds,Returns Desk,0.95,"Return pickup request, return QC, or refund processing status (keyword: 'refund pending')",Returns & Refunds,Returns Desk,Refund has been approved but customer has not received it yet; this is a refund-processing issue handled by Returns Desk.,2026-10-03 00:50:00
+TK-241245,2025-03-13 14:15,chat,app crashes when i open device settings,"Cleared cache, rslvd. Issue: app crash on device page. Known issue on Android 15 - bug logged. //SNE",App & Firmware,Chat Frontline,App & Firmware,Chat Frontline,0.95,"Companion app crash, firmware update failure, or software glitch (keyword: 'app crash')",App & Firmware,Chat Frontline,,2026-10-03 00:51:56
+TK-252147,2026-04-13 12:37,chat,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of my Pulse 2 (VR906843) placed on March 24. You picked up the item 7 days ago and my money hasn't come back. I have emailed twice. I request you to provide a resolution within 3 working days.
+
+Sincerely,
+Anjali Mittal","1. Refund not credited
+2. Checked reverse pkp QC status
+3. Refund of Rs 2974 initiated to source (SOP 5.4) [closed]",Returns & Refunds,Returns Desk,Returns & Refunds,Returns Desk,0.95,"Return pickup request, return QC, or refund processing status (keyword: 'refund not credited')",Returns & Refunds,Returns Desk,"Customer is requesting a return or refund, so this belongs to Returns Desk.",2026-10-03 00:55:45
+TK-246425,2025-10-27 16:47,email,"works for music but useless for meetings
+VR896558",cx says mic issue. checked mic permissions on phone. replacement raised. closing.,Audio Quality,Email Frontline,Audio Quality,Email Frontline,0.95,"Audio output distortion, microphone quality, or volume imbalance (keyword: 'mic issue')",Audio Quality,Email Frontline,Customer's primary issue is device connectivity or pairing,2026-10-03 01:45:19
+TK-250318,2026-02-15 11:46,chat,"Very poor quality. I bouht Orbit Mini on 14 Feb. paid via UPI, amount deducted, no order confirmation. I already checekd bank statement. I want a replacement or refund, nothign else.",ord manually created. issue: amount deducted without ord. checked pg dashboard for txn. ~Megha,Billing & Payments,Billing,Billing & Payments,Billing,0.95,"Payment gateway charge, invoice / GST bill, or discount coupon query (keyword: 'amount deducted without ord')",Billing & Payments,Billing,"Customer's primary issue is payment, invoice, or payment-gateway related.",2026-10-03 00:58:07
+TK-249270,2026-01-13 13:01,chat,"namaste, this is regarding my pulse 2. my phone just doesn't see it in the list anymore. i restarted the phone. need this sorted this week. thank you lakshmi khanna","cx: device not discoverable | asked cx to reset the device -> advised fw update via app, rslvd | xfer billing //HAR",Connectivity,Chat Frontline,Connectivity,Chat Frontline,0.95,"Bluetooth pairing, wireless connection drops, or discoverability issue (keyword: 'device not discoverable')",Connectivity,Chat Frontline,Customer's primary issue is device connectivity.,2026-10-03 01:00:22
+TK-250581,2026-02-23 10:27,voice,[IVR transcript] hey lockked out of my own account since in june ??,"re: unable to log in | checked otp logs -> number updated, resolved",Account & Login,Voice Frontline,Account & Login,Voice Frontline,0.95,"Account authentication, OTP delivery, or profile access issue (keyword: 'unable to log in')",Account & Login,Voice Frontline,Customer's primary issue is account access or login-related.,2026-10-03 01:12:49
+TK-242652,2025-05-29 20:36,chat,"Dear Sir/Madam, This is regarding the Nexa 2. Package not delivered even after 12 days. Waiting for your reply. Thank you",re: delivery delayed | checked awb with courier -> refund initiated as lost in transit,Delivery & Shipping,Logistics,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'package not delivered')",Delivery & Shipping,Logistics,,2026-10-03 01:01:13
+TK-246763,2025-11-05 20:27,chat,"I haven't received my order
+VR891655
+can someone fix this?",Contact re ord not delivered. Checked AWB with courier. Refund initiated as lost in transit. Follow-up not required.,Delivery & Shipping,Logistics,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'ord not delivered')",Delivery & Shipping,Logistics,,2026-10-03 01:46:08
+TK-251601,2026-03-28 11:10,email,audio keeps disconnecting every few minutes - VR905701 - pls resolve asap,"cx reached out - intermittent disconnects. checked fw 1.5.4. replacement approved, reverse pickup arranged. closing.",Connectivity,Email Frontline,Returns & Refunds,Returns Desk,0.95,"Return pickup request, return QC, or refund processing status (keyword: 'reverse pickup')",Returns & Refunds,Returns Desk,,2026-10-03 01:47:54
+TK-243874,2025-08-03 02:14,chat,"Namaste, Got Pulse 2 from vireo.in 2 weeks ago. Battery drains very fast, barely lasts 2 hours. I updated the app. Please call me on my registered number. Thanks & regards, Lakshmi","Reported: battery draining fast. Checked usage pattern w/ cx. Refund approved, Rs 446, 5-7 working days. Follow-up not required. (SOP 4.2) -VG",Charging & Battery,Chat Frontline,Returns & Refunds,Returns Desk,0.95,"Return pickup request, return QC, or refund processing status (keyword: 'refund approved')",Returns & Refunds,Returns Desk,,2026-10-03 01:57:43
+TK-248586,2025-12-22 23:25,chat,Not what I expected from Vireo. Got my Strata 3 headphones from Amazon 3 weeks back. cannot pair my Strata 3 headphones with my laptop. I already tried on another phone. Fix this or I am posting on twitter.,"Reset done, paired ok. Issue: pairing failure. Checked phone OS version. ~Ritika",Connectivity,Chat Frontline,Connectivity,Chat Frontline,0.95,"Bluetooth pairing, wireless connection drops, or discoverability issue (keyword: 'cannot pair')",Connectivity,Chat Frontline,,2026-10-03 01:15:08
+TK-252241,2026-04-16 13:44,chat,"please cancel, ordered by mistake
+VR908064",cust contacted re cancel order. chk shipment status. refunded rs 5524.,Other,Chat Frontline,Other,Chat Frontline,0.5,Default fallback due to limited text context,Other,Chat Frontline,,2026-10-03 01:48:24
+TK-240428,2025-01-21 10:41,chat,i was charged twice for one order,Duplicate refunded to source. Issue: duplicate payment. Checked PG for duplicate txn.,Billing & Payments,Billing,Billing & Payments,Billing,0.95,"Payment gateway charge, invoice / GST bill, or discount coupon query (keyword: 'duplicate payment')",Billing & Payments,Billing,"Customer's primary issue is payment, invoice, or payment-gateway related.",2026-10-03 01:16:59
+TK-245989,2025-10-14 19:43,email,"hii
+the box says my orbit but what's inside is not what i pid for
+hello??","1. Wrong item delivered
+2. Raised with warehouse
+3. New unit shipped under DOA [closed]",Returns & Refunds,Returns Desk,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'wrong item delivered')",Delivery & Shipping,Logistics,,2026-10-03 01:57:10
+TK-243048,2025-06-20 15:07,email,"hey
+i haven't received my order
+anyone there","cx: order not delivered | checked awb with courier -> courier confirmed delivery for 22 jun, cx informed",Delivery & Shipping,Logistics,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'order not delivered')",Delivery & Shipping,Logistics,,2026-10-03 01:49:25
+TK-252169,2026-04-13 23:38,email,"To the Vireo Customer Care Team,
+
+I am writing with reference to my order of USB-C cable placed on 09/04. Want to cancel my order. I have tried cancel button, greyed out. I request you to look into this matter at the earliest.
+
+Regards,
+Aarav Mukherjee","rfnd approved, Rs 379, 5-7 working days. Issue: cancel order. Checked shipment status. (SOP 5.4)",Delivery & Shipping,Logistics,Other,Email Frontline,0.5,Default fallback due to limited text context,Other,Email Frontline,,2026-10-03 01:56:45
+TK-245358,2025-09-23 15:47,email,"PRODUCT: STRATA 2
+PURCHASED: 15-09-2025
+ISSUE: TWO ENTRIES OF RS 2499 ON MY STATEMENT FOR ONE PAIR OF EARBUDS
+TRIED: CHECKED WITH BANK
+EXPECTED: CALLBACK",ticket raised for dupllicate payment. checked pg for duplicate txn. rfnd of rs 3999 initiated to source. cx informed.,Other,Email Frontline,Other,Email Frontline,0.5,Default fallback due to limited text context,Other,Email Frontline,,2026-10-03 01:50:32
+TK-245054,2025-09-12 21:47,chat,"the login code never arrives, tried 6 times","OTP resent, cx logged in. Issue: unable to log in. Checked OTP logs.",App & Firmware,Chat Frontline,Account & Login,Chat Frontline,0.95,"Account authentication, OTP delivery, or profile access issue (keyword: 'login code')",Account & Login,Chat Frontline,,2026-10-03 01:56:27
+TK-247934,2025-12-05 10:16,email,"hi
+the courier marked it delivered but nobody in my house got anything","Reported: shipment not received. Confirmed address with cx. Courier confirmed dlvry for 06 Dec, cx informed. Follow-up not required. (SOP 5.4) ~Imran",Delivery & Shipping,Logistics,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'shipment not received')",Delivery & Shipping,Logistics,,2026-10-03 01:54:32
+TK-249580,2026-01-23 13:47,chat,"Hi there,
+Bought the Nexa 2 around 22 Jan from vireo.in. Order not delivered, tracking not updating.
+Please advise.","issue: delivery delayed | raised ticket with crr partner -> rto conf, reshipped [closed]",Other,Chat Frontline,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'order not delivered')",Delivery & Shipping,Logistics,,2026-10-03 01:56:02
+TK-249505,2026-01-20 17:08,email,really frustrating. this is regarding airlite earbuds. cannot pair airlite earbuds with my laptop. i already tied on another phone. fix this or i am posting on twitter.,"reported: device not discoverable. asked cx to reset the device. reset done, paired ok. cx satisfied on chat.",Connectivity,Email Frontline,Connectivity,Email Frontline,0.95,"Bluetooth pairing, wireless connection drops, or discoverability issue (keyword: 'cannot pair')",Connectivity,Email Frontline,,2026-10-03 01:20:50
+TK-247285,2025-11-18 14:30,chat,"Dear Sir/Madam,
+
+I am writing with reference to my order of my Nexa 2 watch placed on 20 Oct. Where is the money for the return. I HAVE CHECKED BANK. I request you to process a refund to my original payment method.
+
+Sincerely,
+Vikram Joshi",re: refund not credited | checked reverse pickup qc status -> refund of rs 1950 initiated to source ~Pranav,Returns & Refunds,Returns Desk,Returns & Refunds,Returns Desk,0.95,"Return pickup request, return QC, or refund processing status (keyword: 'refund not credited')",Returns & Refunds,Chat Frontline,,2026-10-03 01:21:10
+TK-242686,2025-05-31 13:43,email,"bhai
+after the update prompt it went dark and never came back
+airlite eabruds
+urgent",customer reached out - fw update failed. chk fw 1.5.7 rollout. update completed after retry. case closed with cx consent.,App & Firmware,Email Frontline,App & Firmware,Email Frontline,0.95,"Companion app crash, firmware update failure, or software glitch (keyword: 'fw update')",App & Firmware,Email Frontline,,2026-10-03 01:21:29
+TK-243880,2025-08-03 10:06,chat,"Bought my Pulse around August 01 from vireo.in.  MY SON ORDERED THIS WITHOUT ASKING, PLEASE REVERSE.
+I TRIED CANCEL BUTTON, GREYED OUT.
+PLEASE HELP.
+THANKS IN ADVANCE ISHAAN QURESHI",ord cancellation | checked shipment status -> full rfnd processed (2374),Other,Chat Frontline,Other,Chat Frontline,0.5,Default fallback due to limited text context,Other,Chat Frontline,,2026-10-03 01:21:52
+TK-245122,2025-09-15 13:38,chat,"nobody came for the pickup
+please resolve asap","picukp missed | checekd pickkup awb -> pickup done, rfnd initiated",Returns & Refunds,Returns Desk,Other,Chat Frontline,0.5,Default fallback due to limited text context,Other,Chat Frontline,,2026-10-03 01:59:11
+TK-247975,2025-12-06 14:02,email,"Product: my Nexa Fit band
+Order: VR892648
+Purchased: 06-12-2025
+Issue: please cancel, ordered by mistake
+Tried: tried cancel button, greyed out
+Expected: refund","ticket raised for cancellation request. cancelled before dispatch. already shipped, adv rto/return. closing.",Other,Email Frontline,Other,Email Frontline,0.5,Default fallback due to limited text context,Other,Email Frontline,,2026-10-03 01:53:51
+TK-246310,2025-10-23 22:43,email,got a different colour than ordered,"Replacement raised, RMA shared with cx. Issue: wrong variant rcvd. Raised with warehouse.",Delivery & Shipping,Logistics,Other,Email Frontline,0.5,Default fallback due to limited text context,Other,Email Frontline,,2026-10-03 01:55:21
+TK-246793,2025-11-06 15:46,chat,"team,
+typo in the flat number, courier will nevver find it
+around Diwali se
+pulse 1
+pls reply",Cust contacted re address change request. Updated address with crr. Address updated.,Other,Chat Frontline,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'address update')",Delivery & Shipping,Logistics,,2026-10-03 01:53:29
+TK-251013,2026-03-08 20:38,email,I haven't received my order,"reported: shipment not rcvd. checked awb w/ courier. courier conf dlvry for 13 mar, cx informed.",Delivery & Shipping,Logistics,Delivery & Shipping,Logistics,0.95,"Delivery tracking, transit delay, or shipment fulfillment issue (keyword: 'shipment not rcvd')",Delivery & Shipping,Logistics,,2026-10-03 01:54:12
